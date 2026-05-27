@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+}
+
+
+
+#logo{
+color: orangered ;
+  font-size: 25px;
+}
+
+#navbar{
+    background-color: black;
+    height: 60px;
+    border: 10px solid white;
+}
+
+a{
+    text-decoration: none;
+    margin-right: 150px;
+}
+
+button{
+    background-color: #f08804;
+}
+
+.contentbox{
+    height: 100px;
+    width: 100px;
+    border: 10px solid black;
+  display: inline-block;
+}
+
+footer{
+    background-color: black; 
+    text-align: center;
+}
+
+#content{
+    height: 700px;
+}

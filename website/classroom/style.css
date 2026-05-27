@@ -1,0 +1,46 @@
+/* div{
+   background-color: blue; 
+}
+
+.heloall{
+    color: red;
+} */
+
+ /* #one{
+    background-color: green;
+}
+#two{
+    background-color: blue;
+}
+#three{
+    background-color: black;
+}  */
+ 
+/* #one{
+    background-color: green;
+}
+#two{
+    background-color: blue;
+}
+#three{
+    background-color: black;
+    color: white;
+} */ */
+
+h1{
+    text-align: center;
+    background-color: rgb(35, 3, 87);
+}
+
+#outer{
+font-size: 25px;
+}
+
+#inner{
+    font-size: 25px;
+}
+/* 
+h1{
+    text-align: center;
+    font-family: 'Times New Roman';
+} */
