@@ -41,9 +41,19 @@
 // newpara.appendChild(element);
 
 
-let image =document.querySelector("img")
-image.setAttribute("src","swapped.webp")
-image.getAttribute("src");
+// let image =document.querySelector("img")
+// image.setAttribute("src","swapped.webp")
+// image.getAttribute("src");
+let count =0;
+let button= document.getElementById("btn2")
+button.addEventListener('click', () => {
+    let para = document.querySelector("p");
+    count++;
+    para.innerText=count;
+    para.style.color="white"
+    para.style.backgroundColor="blue"
+    // let body = document.querySelector("body");
 
-
+    // body.style.backgroundColor="yellow";
+});
 
